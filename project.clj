@@ -5,4 +5,5 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [quil "2.4.0"]
-                 [org.clojure/math.numeric-tower "0.0.3"]])
+                 [org.clojure/math.numeric-tower "0.0.3"]]
+  :main dojoquil.core)
